@@ -7,7 +7,7 @@ view: events {
     sql: ${TABLE}.id ;;
   }
 
-
+### Added comments here
 
 
   dimension: browser {
